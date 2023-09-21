@@ -102,14 +102,6 @@ h6 {
 
 
 
-
-/* skills */
-#skills #skill{
-  text-align: left;
-  display: flex;
-  /* align-items: center; */
-}
-
 #skills #skill .img-bx img{
   width: 150px;
 }
